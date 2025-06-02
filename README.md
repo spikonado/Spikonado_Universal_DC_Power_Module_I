@@ -28,7 +28,7 @@ You'll find:
 
 ## Accessing the Documentation
 
-The `docs/` directory contains the source files for our comprehensive product documentation. For the best reading experience, with all formatting and interactive elements correctly rendered, please view the built version on our [website](https://docs.spikonado.com/spikonado-universal-dc-power-module-i).
+The `docs/` directory contains the source files for our comprehensive product documentation. For the best reading experience, with all formatting and interactive elements correctly rendered, please view the built version on our [website](https://docs.spikonado.com/Spikonado_Universal_DC_Power_Module_I).
 
 While you can browse the raw files in the `docs/` directory on GitHub, they are primarily intended for those contributing to the documentation or exploring its source structure.
 
