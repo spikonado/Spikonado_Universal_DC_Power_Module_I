@@ -1,0 +1,7 @@
+site_name: Spikonado Univseral DC Power Module I - Documentation
+nav:
+  - Overview: index.md
+  - Specifications: specifications.md
+  - What are EN and PG?: what_are_en_and_pg.md
+theme:
+  name: material
