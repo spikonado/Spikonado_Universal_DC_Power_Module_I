@@ -10,3 +10,6 @@ sym-lib-table
 _autosave*
 \#auto_saved_files\#
 production
+
+# MkDocs
+site

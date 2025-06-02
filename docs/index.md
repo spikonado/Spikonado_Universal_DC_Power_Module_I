@@ -9,7 +9,7 @@ The [Spikonado Universal DC Power Module I](https://spikonado.com/product/spikon
 - **3.3V @ 8A**
 
 <figure markdown>
-  <model-viewer alt="3D View of Spikonado Universal DC Power Module I" src="../assets/3d_model/Spikonado_Universal_DC_Power_Module_I.glb" camera-controls autoplay style="width: 500px; height: 300px;">
+  <model-viewer alt="3D View of Spikonado Universal DC Power Module I" src="./assets/3d_model/Spikonado_Universal_DC_Power_Module_I.glb" camera-controls autoplay style="width: 500px; height: 300px;">
   </model-viewer>
   <figcaption markdown>3D View of Spikonado Universal DC Power Module I</figcaption>
 </figure>
