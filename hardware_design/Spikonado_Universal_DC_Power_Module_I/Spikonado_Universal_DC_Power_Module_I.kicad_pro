@@ -502,7 +502,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../docs/assets/3d_model/Spikonado_Universal_DC_Power_Module_I.glb",
+      "step": "Spikonado_Universal_DC_Power_Module_I.step",
       "svg": "",
       "vrml": "../../docs/assets/3d_model/Spikonado_Universal_DC_Power_Module_I.wrl"
     },
